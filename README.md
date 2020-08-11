@@ -5,7 +5,7 @@
 - 👍 Conheço um pouco de Markdown e linguagem C e posso ajudá-lo.
 
 ## Sobre mim
-Gosto de games: LoL, animes, jogos indie, TCG online, séries e filmes de heróis e outros gêneros. ⚔️🛡️🎮
+Gosto de games, LoL, animes, TCG online, séries e filmes de heróis e de outros gêneros. ⚔️🛡️🎮
 
 ## Redes Sociais 
 Vamos nos conectar! 🤝🌐
