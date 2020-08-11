@@ -1,16 +1,14 @@
-### Hi there 👋
+# Oi pessoal 👋, meu nome é Renato Alencar
+- 🎓 Recém graduado em Engenharia Mecatrônica pelo Centro Universitário [Facens](https://www.facens.br/home) e iniciante em programação.
+- 💼 Atualmente trabalho como voluntário no Smart Campus Facens.
+- 📚 Estou aprendendo sobre Programação Orientada a Objeto.
+- 👍 Conheço um pouco de Markdown e linguagem C e posso ajudá-lo.
 
-<!--
-**Renato-Alencar/Renato-Alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Gosto de games: LoL, animes, jogos indie, TCG online, séries e filmes de heróis e outros gêneros. ⚔️🛡️🎮
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes Sociais 
+Vamos nos conectar! 🤝🌐
+  
+📮 Linkedin: https://www.linkedin.com/in/renato-augusto-de-santana-alencar/  
+📫 Gmail: renato.augustoalencar@gmail.com
