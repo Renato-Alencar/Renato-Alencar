@@ -21,6 +21,6 @@ Vamos nos conectar! 🤝🌐
 
 <div align = 'right'>
   
-Créditos dos quadros acima: [anuraghazra-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Créditos dos quadros acima: [Anuraghazra GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
