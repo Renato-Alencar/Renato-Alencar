@@ -11,9 +11,9 @@
 <div align='justify'>
   
 - 🎓 Recém graduado em Engenharia Mecatrônica pelo Centro Universitário [Facens](https://www.facens.br/home) e iniciante em programação.
-- 💼 Atualmente trabalho como voluntário no Smart Campus Facens.
-- 📚 Estou aprendendo sobre Programação Orientada a Objeto.
-- 👍 Conheço um pouco de Markdown e linguagem C e posso ajudá-lo.
+- 💼 Atualmente estou à procura de emprego.
+- 👍 Estou aprendendo sobre linguagem Python e Arduino.
+- 📚 Conhecimento básico em: HTML, CSS, JavaScript, C, Git, Markdown e Metodologia Scrum.
 
 ## Sobre mim
 Gosto de games, LoL, animes, TCG online, séries e filmes de heróis e de outros gêneros. ⚔️🛡️🎮
@@ -22,7 +22,7 @@ Gosto de games, LoL, animes, TCG online, séries e filmes de heróis e de outros
 
 <div align='left'>
 
-[<img src='https://github-readme-stats.vercel.app/api?username=Renato-Alencar&show_icons=true' alt='Renato Alencar github stats' height='185'>](https://github.com/anuraghazra/github-readme-stats)[<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Alencar' alt='Top Langs' hspace='20' height='185'>](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://github-readme-stats.vercel.app/api?username=Renato-Alencar&show_icons=true&count_private=true' alt='Renato Alencar github stats' height='185'>](https://github.com/anuraghazra/github-readme-stats)[<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Alencar&repo=Renato-Alencar/Renato-Alencar' alt='Top Langs' hspace='20' height='185'>](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
