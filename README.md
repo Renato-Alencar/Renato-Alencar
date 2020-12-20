@@ -12,8 +12,8 @@
   
 - 🎓 Recém graduado em Engenharia Mecatrônica pelo Centro Universitário [Facens](https://www.facens.br/home) e iniciante em programação.
 - 💼 Atualmente estou à procura de emprego.
-- 👍 Estou aprendendo sobre linguagem Python e Arduino.
-- 📚 Conhecimento básico em: HTML, CSS, JavaScript, C, Git, Markdown e Metodologia Scrum.
+- 👍 Estou aprendendo sobre linguagem Arduino, Python e Bootstrap v5.
+- 📚 Conhecimento básico em: HTML5, CSS3, JavaScript, C, Git, Markdown, Kanban e Metodologia Scrum.
 
 ## Sobre mim
 Gosto de games, LoL, animes, TCG online, séries e filmes de heróis e de outros gêneros. ⚔️🛡️🎮
