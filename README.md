@@ -12,7 +12,7 @@
   
 - 🎓 Recém graduado em Engenharia Mecatrônica pelo Centro Universitário [Facens](https://www.facens.br/home) e iniciante em programação.
 - 💼 Atualmente estou à procura de emprego.
-- 👍 Estou aprendendo sobre linguagem Arduino, Python e Bootstrap v5.
+- 👍 Estou aprendendo sobre linguagem Vue.js, Vue Router, Vuex, Vuetify, Vue CLI e Tailwind CSS
 - 📚 Conhecimento básico em: HTML5, CSS3, JavaScript, C, Git, Markdown, Kanban e Metodologia Scrum.
 
 ## Sobre mim
