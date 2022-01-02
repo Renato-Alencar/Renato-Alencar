@@ -1,33 +1,35 @@
-# Oi pessoal 👋, meu nome é Renato Alencar
+# Muito prazer. Renato Alencar, desenvolvedor Front-End.
+
+<div display='infline-flex' align='center' >
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-augusto-de-santana-alencar/)](https://www.linkedin.com/in/renato-augusto-de-santana-alencar/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:renato.augustoalencar@gmail.com)](mailto:renato.augustoalencar@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-discord-6865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/CK7nzNaB)](https://discord.gg/CK7nzNaB)
+</div>
 
 <div align='center'>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-augusto-de-santana-alencar/)](https://www.linkedin.com/in/renato-augusto-de-santana-alencar/)
-&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renato.augustoalencar@gmail.com)](mailto:renato.augustoalencar@gmail.com)
- 
+  <img height=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img height=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img height=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
 
-<div align='justify'>
-  
-- 🎓 Recém graduado em Engenharia Mecatrônica pelo Centro Universitário [Facens](https://www.facens.br/home) e iniciante em programação.
-- 💼 Atualmente estou à procura de emprego.
-- 👍 Estou aprendendo sobre linguagem Vue.js, Vue Router, Vuex, Vuetify, Vue CLI e Tailwind CSS
-- 📚 Conhecimento básico em: HTML5, CSS3, JavaScript, C, Git, Markdown, Kanban e Metodologia Scrum.
+<br>
+
+<div align='center'>
+ 
+[<img height=180em src='https://github-readme-stats.vercel.app/api?username=Renato-Alencar&show_icons=true&count_private=true&theme=github_dark' alt='Renato Alencar GitHub stats'>](https://github.com/anuraghazra/github-readme-stats)
+[<img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Alencar&repo=Renato-Alencar/Renato-Alencar&layout=compact&theme=github_dark' alt='Top Langs' hspace=20 >](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Sobre mim
-Gosto de games, LoL, animes, TCG online, séries e filmes de heróis e de outros gêneros. ⚔️🛡️🎮
+<!--  - 💼 Em recolocação. -->
+ - 📚 Estudo programação desde setembro de 2020.
+ - 🎮 Gosto de games, animes, livros, séries e filmes de heróis e de outros gêneros. 
 
-</div>
+## Créditos
+- [Devicon](https://devicon.dev)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Shields.io](https://shields.io)
 
-<div align='left'>
-
-[<img src='https://github-readme-stats.vercel.app/api?username=Renato-Alencar&show_icons=true&count_private=true' alt='Renato Alencar github stats' height='185'>](https://github.com/anuraghazra/github-readme-stats)[<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Alencar&repo=Renato-Alencar/Renato-Alencar' alt='Top Langs' hspace='20' height='185'>](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align = 'center'>
-  
-Créditos dos quadros acima: [Anuraghazra GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
